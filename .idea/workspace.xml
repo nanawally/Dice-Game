@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132179ac-dc63-4381-a900-ae6c47f01e03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/DiceRoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Version2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/anna/dicegame/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nanawally"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nanawally&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nanawally/Dice-Game.git",
-    "accountId": "3cbf429f-94d7-4863-8f7b-989d00a961bd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nanawally/Dice-Game.git&quot;,
+    &quot;accountId&quot;: &quot;3cbf429f-94d7-4863-8f7b-989d00a961bd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mHZijLVyDOdZuUXEcFbV3XV24K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Version2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -84,6 +80,11 @@
       <option name="presentableId" value="Default" />
       <updated>1726735590664</updated>
       <workItem from="1726735591714" duration="7188000" />
+      <workItem from="1726922039043" duration="2235000" />
+      <workItem from="1727074373536" duration="2574000" />
+      <workItem from="1727080312928" duration="9634000" />
+      <workItem from="1727160683754" duration="1328000" />
+      <workItem from="1727162392609" duration="2793000" />
     </task>
     <servers />
   </component>
